@@ -1,0 +1,14 @@
+title:Light Machine Guns
+dimwishlistitem=3325463374&perks=#notes:Add clear
+dimwishlistitem=2194955522&perks=2869569095,557221067#notes:Add clear
+dimwishlistitem=2194955522&perks=2308090567,557221067#notes:Add clear
+dimwishlistitem=2194955522&perks=2869569095,2896748467#notes:Add clear
+dimwishlistitem=2194955522&perks=2308090567,2896748467#notes:Add clear
+dimwishlistitem=2194955522&perks=2869569095,4293542123#notes:Add clear
+dimwishlistitem=2194955522&perks=2308090567,4293542123#notes:Add clear
+dimwishlistitem=2194955522&perks=2869569095,2675184851#notes:Add clear
+dimwishlistitem=2194955522&perks=2308090567,2675184851#notes:Add clear
+dimwishlistitem=3103325054&perks=839105230,1431678320,1354429876,365154968#notes:Add clear
+dimwishlistitem=3103325054&perks=839105230,1431678320,848860060,365154968#notes:Add clear
+dimwishlistitem=3103325054&perks=839105230,1431678320,1354429876,2939589096#notes:Add clear
+dimwishlistitem=3103325054&perks=839105230,1431678320,848860060,2939589096#notes:Add clear

@@ -1,0 +1,3 @@
+title:Fusion Rifles
+dimwishlistitem=2415517654&perks=#notes:Unstoppable
+dimwishlistitem=2130065553&perks=#notes:Barrier

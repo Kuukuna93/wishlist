@@ -1,0 +1,6 @@
+title:Swords
+dimwishlistitem=&perks=#notes:Add clear
+dimwishlistitem=3257091167&perks=2077819806#notes:Add clear
+dimwishlistitem=3257091167&perks=1618208178#notes:Add clear
+dimwishlistitem=1558048189&perks=2077819806#notes:Add clear
+dimwishlistitem=1558048189&perks=1618208178#notes:Add clear

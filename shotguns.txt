@@ -1,0 +1,11 @@
+title:Shotguns
+dimwishlistitem=1665952087&perks=#notes:General
+dimwishlistitem=3580904581&perks=#notes:Debuff
+dimwishlistitem=3616586446&perks=3300816228,1546637391#notes:General
+dimwishlistitem=3616586446&perks=3300816228,3418165135#notes:General
+dimwishlistitem=3616586446&perks=3528046508,1546637391#notes:General
+dimwishlistitem=3616586446&perks=3528046508,3418165135#notes:General
+dimwishlistitem=4248569242&perks=1523832109,469285294#notes:General
+dimwishlistitem=4248569242&perks=1523832109,3335686050#notes:General
+dimwishlistitem=4248569242&perks=461595545,469285294#notes:General
+dimwishlistitem=4248569242&perks=461595545,3335686050#notes:General
