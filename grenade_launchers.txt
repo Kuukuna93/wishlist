@@ -1,9 +1,9 @@
 title:Grenade Launchers
 dimwishlist:item=2357297366&perks=#notes:General
-dimwishlist:item=2060863616&perks=3301904089,3300816228,1546637391#notes:General
-dimwishlist:item=2060863616&perks=3301904089,3528046508,1546637391#notes:General
-dimwishlist:item=2060863616&perks=3301904089,3300816228,3418165135#notes:General
-dimwishlist:item=2060863616&perks=3301904089,3528046508,3418165135#notes:General
+dimwishlist:item=2060863616&perks=3301904089,3523296417,1546637391#notes:General
+dimwishlist:item=2060863616&perks=3301904089,1906147653,1546637391#notes:General
+dimwishlist:item=2060863616&perks=3301904089,3523296417,3418165135#notes:General
+dimwishlist:item=2060863616&perks=3301904089,1906147653,3418165135#notes:General
 dimwishlist:item=2376481550&perks=#notes:General
 dimwishlist:item=2812324400&perks=#notes:DPS phase
 dimwishlist:item=268260372&perks=3525010810,3301904089,3300816228,3194351027#notes:General
