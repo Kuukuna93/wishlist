@@ -1,5 +1,4 @@
 title:Submachine Guns
-dimwishlist:item=3886416794&perks=3643424744,4104185692#notes:Add clear
 dimwishlist:item=3886416794&perks=2682205016,4104185692#notes:Add clear
 dimwishlist:item=3886416794&perks=3643424744,3007133316#notes:Add clear
 dimwishlist:item=3886416794&perks=2682205016,3007133316#notes:Add clear
@@ -20,18 +19,7 @@ dimwishlist:item=1509167284&perks=536173722,124408337#notes:Add clear
 dimwishlist:item=1509167284&perks=691659142,1171887445#notes:Add clear
 dimwishlist:item=1509167284&perks=536173722,1171887445#notes:Add clear
 dimwishlist:item=2988121501&perks=3523296417,11612903#notes:Add clear
-dimwishlist:item=2988121501&perks=1906147653,11612903#notes:Add clear
-dimwishlist:item=2988121501&perks=3523296417,2422968039#notes:Add clear
-dimwishlist:item=2988121501&perks=1906147653,2422968039#notes:Add clear
 dimwishlist:item=2988121501&perks=1820235745,11612903#notes:Add clear
-dimwishlist:item=2988121501&perks=4245865861,11612903#notes:Add clear
-dimwishlist:item=2988121501&perks=1820235745,2422968039#notes:Add clear
-dimwishlist:item=2988121501&perks=4245865861,2422968039#notes:Add clear
 dimwishlist:item=3000847393&perks=3523296417,11612903#notes:Add clear
-dimwishlist:item=3000847393&perks=1906147653,11612903#notes:Add clear
-dimwishlist:item=3000847393&perks=3523296417,2422968039#notes:Add clear
-dimwishlist:item=3000847393&perks=1906147653,2422968039#notes:Add clear
 dimwishlist:item=3000847393&perks=3523296417,4104185692#notes:Add clear
-dimwishlist:item=3000847393&perks=1906147653,4104185692#notes:Add clear
-dimwishlist:item=3000847393&perks=3523296417,3007133316#notes:Add clear
-dimwishlist:item=3000847393&perks=1906147653,3007133316#notes:Add clear
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968#notes:PVP
