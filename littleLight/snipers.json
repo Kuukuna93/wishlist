@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "name": "Snipers",
+    "data": [
+        {
+            "description": "DPS Phase",
+            "hash": 3211806999,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "DPS Phase",
+            "hash": 4067556514,
+            "name": "",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260
+                ],
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    1771339417,
+                    395388285
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        }
+    ]
+}

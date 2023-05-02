@@ -1,0 +1,79 @@
+title:Trace Rifles
+
+// Retraced Path (pve,god-pve)
+//notes: General tags:pve,god-pve
+dimwishlist:item=548958835&perks=1820235745,4104185692
+dimwishlist:item=548958835&perks=1820235745,3007133316
+dimwishlist:item=548958835&perks=1820235745,4293542123
+dimwishlist:item=548958835&perks=1820235745,2675184851
+dimwishlist:item=548958835&perks=4245865861,4104185692
+dimwishlist:item=548958835&perks=4245865861,3007133316
+dimwishlist:item=548958835&perks=4245865861,4293542123
+dimwishlist:item=548958835&perks=4245865861,2675184851
+
+
+// Retraced Path (pve,god-pve)
+//notes: General tags:pve,god-pve
+dimwishlist:item=548958835&perks=1428297954,3523296417
+dimwishlist:item=548958835&perks=1428297954,1906147653
+dimwishlist:item=548958835&perks=2014892510,3523296417
+dimwishlist:item=548958835&perks=2014892510,1906147653
+
+
+// Retraced Path (pve,god-pve)
+//notes: Antishield tags:pve,god-pve
+dimwishlist:item=548958835&perks=1048183818,4104185692
+dimwishlist:item=548958835&perks=1048183818,3007133316
+dimwishlist:item=548958835&perks=1048183818,4293542123
+dimwishlist:item=548958835&perks=1048183818,2675184851
+dimwishlist:item=548958835&perks=3431277734,4104185692
+dimwishlist:item=548958835&perks=3431277734,3007133316
+dimwishlist:item=548958835&perks=3431277734,4293542123
+dimwishlist:item=548958835&perks=3431277734,2675184851
+
+
+// Hollow Denial (god-pve,pve)
+//notes: General tags:god-pve,pve
+dimwishlist:item=2323544076&perks=1556840489,776531651
+dimwishlist:item=2323544076&perks=1556840489,2541826827
+dimwishlist:item=2323544076&perks=3442762221,776531651
+dimwishlist:item=2323544076&perks=3442762221,2541826827
+
+
+// Hollow Denial (god-pve,pve)
+//notes: Antishield tags:god-pve,pve
+dimwishlist:item=2323544076&perks=1048183818,776531651
+dimwishlist:item=2323544076&perks=1048183818,2541826827
+dimwishlist:item=2323544076&perks=3431277734,776531651
+dimwishlist:item=2323544076&perks=3431277734,2541826827
+
+
+// Path of Least Resistance (god-pve,pve)
+//notes: General tags:god-pve,pve
+dimwishlist:item=2827764482&perks=1820235745,2896038713
+dimwishlist:item=2827764482&perks=1820235745,2173046394
+dimwishlist:item=2827764482&perks=1820235745,2402480669
+dimwishlist:item=2827764482&perks=1820235745,1720528630
+dimwishlist:item=2827764482&perks=4245865861,2896038713
+dimwishlist:item=2827764482&perks=4245865861,2173046394
+dimwishlist:item=2827764482&perks=4245865861,2402480669
+dimwishlist:item=2827764482&perks=4245865861,1720528630
+
+
+// Path of Least Resistance (pve,god-pve)
+//notes: Antishield tags:pve,god-pve
+dimwishlist:item=2827764482&perks=1048183818,2896038713
+dimwishlist:item=2827764482&perks=1048183818,2402480669
+dimwishlist:item=2827764482&perks=1048183818,2173046394
+dimwishlist:item=2827764482&perks=1048183818,1720528630
+dimwishlist:item=2827764482&perks=3431277734,2896038713
+dimwishlist:item=2827764482&perks=3431277734,2402480669
+dimwishlist:item=2827764482&perks=3431277734,2173046394
+dimwishlist:item=2827764482&perks=3431277734,1720528630
+
+
+// Divinity (god-pve,pve)
+//notes: Debuff tags:god-pve,pve
+dimwishlist:item=4103414242&perks=
+
+

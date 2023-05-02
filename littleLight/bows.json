@@ -1,0 +1,16 @@
+{
+    "description": "",
+    "name": "Bows",
+    "data": [
+        {
+            "description": "Add Clear",
+            "hash": 814876685,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+title:Submachine Guns
+
+// Blood Feud (pve,god-pve)
+//notes: Add Clear tags:pve,god-pve
+dimwishlist:item=1509167284&perks=691659142,4104185692
+dimwishlist:item=1509167284&perks=691659142,3007133316
+dimwishlist:item=1509167284&perks=691659142,124408337
+dimwishlist:item=1509167284&perks=691659142,1171887445
+dimwishlist:item=1509167284&perks=536173722,4104185692
+dimwishlist:item=1509167284&perks=536173722,3007133316
+dimwishlist:item=1509167284&perks=536173722,124408337
+dimwishlist:item=1509167284&perks=536173722,1171887445
+
+
+// Submission (Adept) (god-pve,pve)
+//notes: Add Clear tags:god-pve,pve
+dimwishlist:item=1941816543&perks=3643424744,4104185692
+dimwishlist:item=1941816543&perks=3643424744,3007133316
+dimwishlist:item=1941816543&perks=2682205016,4104185692
+dimwishlist:item=1941816543&perks=2682205016,3007133316
+dimwishlist:item=1941816543&perks=1820235745,4104185692
+dimwishlist:item=1941816543&perks=1820235745,3007133316
+dimwishlist:item=1941816543&perks=4245865861,4104185692
+dimwishlist:item=1941816543&perks=4245865861,3007133316
+
+
+// CALUS Mini-Tool (god-pve,pve)
+//notes: Add Clear tags:god-pve,pve
+dimwishlist:item=2490988246&perks=3108830275,4293542123
+dimwishlist:item=2490988246&perks=3108830275,2675184851
+dimwishlist:item=2490988246&perks=855168139,4293542123
+dimwishlist:item=2490988246&perks=855168139,2675184851
+
+
+// Out of Bounds (god-pve,pve)
+//notes: Add Clear tags:god-pve,pve
+dimwishlist:item=2988121501&perks=3523296417,11612903
+dimwishlist:item=2988121501&perks=1820235745,11612903
+
+
+// Unforgiven (pve,god-pve)
+//notes: Add Clear tags:pve,god-pve
+dimwishlist:item=3000847393&perks=3523296417,4104185692
+dimwishlist:item=3000847393&perks=3523296417,11612903
+
+
+// The Immortal (Adept) (god-pvp,pvp)
+//notes: tags:god-pvp,pvp
+dimwishlist:item=3193598749&perks=1482024992,1885400500,2846385770,365154968
+
+
+// Submission (god-pve,pve)
+//notes: Add Clear tags:god-pve,pve
+dimwishlist:item=3886416794&perks=3643424744,4104185692
+dimwishlist:item=3886416794&perks=3643424744,3007133316
+dimwishlist:item=3886416794&perks=2682205016,4104185692
+dimwishlist:item=3886416794&perks=2682205016,3007133316
+dimwishlist:item=3886416794&perks=1820235745,4104185692
+dimwishlist:item=3886416794&perks=1820235745,3007133316
+dimwishlist:item=3886416794&perks=4245865861,4104185692
+dimwishlist:item=3886416794&perks=4245865861,3007133316
+
+
+// The Immortal (god-pvp,pvp)
+//notes: PVP tags:god-pvp,pvp
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
+
+

@@ -1,0 +1,7 @@
+title:Bows
+
+// Trinity Ghoul (god-pve,pve)
+//notes: Add Clear tags:god-pve,pve
+dimwishlist:item=814876685&perks=
+
+

@@ -1,0 +1,62 @@
+{
+    "description": "",
+    "name": "Light Machine Guns",
+    "data": [
+        {
+            "description": "Add clear",
+            "hash": 3325463374,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Add clear",
+            "hash": 2194955522,
+            "name": "",
+            "plugs": [
+                [
+                    2869569095,
+                    2308090567
+                ],
+                [
+                    4293542123,
+                    2675184851,
+                    557221067,
+                    2896748467
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Add clear",
+            "hash": 3103325054,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    365154968,
+                    2939589096
+                ]
+            ],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        }
+    ]
+}

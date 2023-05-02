@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "name": "Shotguns",
+    "data": [
+        {
+            "description": "General",
+            "hash": 1665952087,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Debuff",
+            "hash": 3580904581,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "General",
+            "hash": 3616586446,
+            "name": "",
+            "plugs": [
+                [
+                    3300816228
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "General",
+            "hash": 4248569242,
+            "name": "",
+            "plugs": [
+                [
+                    1523832109,
+                    461595545
+                ],
+                [
+                    469285294,
+                    3335686050
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        }
+    ]
+}

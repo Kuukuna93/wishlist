@@ -1,0 +1,26 @@
+{
+    "description": "",
+    "name": "Fusion Rifles",
+    "data": [
+        {
+            "description": "Unstoppable",
+            "hash": 2415517654,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "PVE",
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "Barrier",
+            "hash": 2130065553,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        }
+    ]
+}

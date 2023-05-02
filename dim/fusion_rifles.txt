@@ -1,0 +1,12 @@
+title:Fusion Rifles
+
+// Arbalest (god-pve,pve)
+//notes: Barrier tags:god-pve,pve
+dimwishlist:item=2130065553&perks=
+
+
+// Bastion (pve,god-pve)
+//notes: Unstoppable tags:pve,god-pve
+dimwishlist:item=2415517654&perks=
+
+

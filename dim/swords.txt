@@ -1,0 +1,17 @@
+title:Swords
+
+// Half-Truths (god-pve,pve)
+//notes: Add clear tags:god-pve,pve
+dimwishlist:item=3257091166&perks=2077819806
+
+
+// The Other Half (god-pve,pve)
+//notes: Add clear tags:god-pve,pve
+dimwishlist:item=3257091167&perks=2077819806
+
+
+// The Lament (god-pve,pve)
+//notes: Add clear tags:god-pve,pve
+dimwishlist:item=3487253372&perks=
+
+

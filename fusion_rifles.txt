@@ -1,3 +1,0 @@
-title:Fusion Rifles
-dimwishlist:item=2415517654&perks=#notes:Unstoppable
-dimwishlist:item=2130065553&perks=#notes:Barrier

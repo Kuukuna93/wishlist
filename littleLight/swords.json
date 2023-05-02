@@ -1,0 +1,44 @@
+{
+    "description": "",
+    "name": "Swords",
+    "data": [
+        {
+            "description": "Add clear",
+            "hash": 3487253372,
+            "name": "",
+            "plugs": [],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Add clear",
+            "hash": 3257091166,
+            "name": "",
+            "plugs": [
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Add clear",
+            "hash": 3257091167,
+            "name": "",
+            "plugs": [
+                [
+                    2077819806
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "PVE"
+            ]
+        }
+    ]
+}
