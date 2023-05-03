@@ -32,6 +32,14 @@ dimwishlist:item=548958835&perks=3431277734,4293542123
 dimwishlist:item=548958835&perks=3431277734,2675184851
 
 
+// Acasia's Dejection (god-pve,pve)
+//notes: General tags:god-pve,pve
+dimwishlist:item=1471212226&perks=1523832109,3215448563
+dimwishlist:item=1471212226&perks=1523832109,3299896859
+dimwishlist:item=1471212226&perks=461595545,3215448563
+dimwishlist:item=1471212226&perks=461595545,3299896859
+
+
 // Hollow Denial (god-pve,pve)
 //notes: General tags:god-pve,pve
 dimwishlist:item=2323544076&perks=1556840489,776531651
@@ -70,6 +78,14 @@ dimwishlist:item=2827764482&perks=3431277734,2896038713
 dimwishlist:item=2827764482&perks=3431277734,2402480669
 dimwishlist:item=2827764482&perks=3431277734,2173046394
 dimwishlist:item=2827764482&perks=3431277734,1720528630
+
+
+// Acasia's Dejection (Adept) (pve,god-pve)
+//notes: General tags:pve,god-pve
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+dimwishlist:item=3493494807&perks=1523832109,3299896859
+dimwishlist:item=3493494807&perks=461595545,3215448563
+dimwishlist:item=3493494807&perks=461595545,3299896859
 
 
 // Divinity (god-pve,pve)

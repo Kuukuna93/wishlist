@@ -1,5 +1,21 @@
 title:Shotguns
 
+// Nessa's Oblation (pve,god-pve)
+//notes: General tags:pve,god-pve
+dimwishlist:item=135029084&perks=1523832109,1546637391
+dimwishlist:item=135029084&perks=1523832109,3418165135
+dimwishlist:item=135029084&perks=461595545,1546637391
+dimwishlist:item=135029084&perks=461595545,3418165135
+
+
+// Nessa's Oblation (Adept) (god-pve,pve)
+//notes: General tags:god-pve,pve
+dimwishlist:item=522366885&perks=1523832109,1546637391
+dimwishlist:item=522366885&perks=1523832109,3418165135
+dimwishlist:item=522366885&perks=461595545,1546637391
+dimwishlist:item=522366885&perks=461595545,3418165135
+
+
 // The Fourth Horseman (god-pve,pve)
 //notes: General tags:god-pve,pve
 dimwishlist:item=1665952087&perks=
