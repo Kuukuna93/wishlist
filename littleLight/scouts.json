@@ -1,0 +1,24 @@
+{
+    "description": "",
+    "name": "Scout Rifles",
+    "data": [
+        {
+            "description": "PVE",
+            "hash": 1389546626,
+            "name": "",
+            "plugs": [
+                [
+                    1168162263,
+                    1354429876
+                ],
+                [
+                    3038247973,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        }
+    ]
+}

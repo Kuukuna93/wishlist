@@ -165,6 +165,21 @@
                 "GodPVP",
                 "PVP"
             ]
+        },
+        {
+            "description": "PVP",
+            "hash": 294129361,
+            "name": "",
+            "plugs": [
+                [
+                    1428297954,
+                    1359896290
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "GodPVP"
+            ]
         }
     ]
 }
